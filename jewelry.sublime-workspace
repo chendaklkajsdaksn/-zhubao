@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"do",
+				"Document"
+			],
+			[
+				"lin",
+				"inline-block\tdisplay"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"justify-conte",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"align-i",
+				"align-items-center \tBootstrap 4 Class"
+			],
+			[
+				"border",
+				"border-warning \tBootstrap 4.4"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"jus",
+				"justify-content-center \tBootstrap 4 Class"
+			],
+			[
+				"ju",
+				"justify-content-between \tBootstrap 4 Class"
+			],
+			[
+				"fle",
+				"flex-row \tBootstrap 4 Class"
+			],
+			[
+				"list-gr",
+				"list-group-item \tBootstrap 4 Class"
+			],
+			[
+				"lis",
+				"list-unstyled \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-danger \tBootstrap 4 Class"
+			],
+			[
+				"btn-out",
+				"btn-outline-info \tBootstrap 4 Class"
+			],
+			[
+				"btn-li",
+				"btn-link \tBootstrap 4 Class"
+			],
+			[
+				"btn",
+				"btn-success \tBootstrap 4 Class"
+			],
+			[
+				"bt",
+				"btn-group \tBootstrap 4 Class"
+			],
+			[
+				"con",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"bx",
+				"box-sizing\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"s",
+				"flex-start\tjustify-content"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"l",
+				"inline\tdisplay"
+			],
+			[
+				"fl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"bo",
+				"bold\tfont-weight"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"li",
+				"inline-block\tdisplay"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"border-box\tbox-sizing"
+			],
+			[
+				"nil",
+				"inline-block\tdisplay"
+			],
+			[
+				"r",
+				"row\tflex-direction"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"anni",
+				"animation\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"f",
+				"flex-start\talign-items"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"SideBar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/BaiduNetdiskDownload/web第二阶段练习效果图示/day14_boot_01练习作业/img/ceshi.html",
+		"/E/前端第二阶段/day16/boot.html",
+		"/E/前端第二阶段/day16/dh.html",
+		"/E/前端第二阶段/day16/dha.html",
+		"/E/前端第二阶段/day16/tanx.html",
+		"/E/BaiduNetdiskDownload/web第二阶段练习效果图示/boot模板文件/bootstrap.css",
+		"/E/前端第二阶段/day17/bootstrap-4.0.0/dist/css/bootstrap.css",
+		"/E/前端第二阶段/day17/bootstrap-4.0.0/dist/css/bootstrap-grid.css",
+		"/E/前端第二阶段/day16/sftp-config.json",
+		"/E/前端第二阶段/day17/home.html",
+		"/E/BaiduNetdiskDownload/web第二阶段练习效果图示/day14_boot_01练习作业/课后作业/img/xiaoguo.html",
+		"/E/BaiduNetdiskDownload/web第二阶段练习效果图示/normalize/normalize_zh.css",
+		"/E/前端第二阶段/day17/xz.html",
+		"/E/前端第二阶段/day16/day16/ASF.HTML",
+		"/E/BaiduNetdiskDownload/web第二阶段练习效果图示/day14_boot_01练习作业/img/ex.html",
+		"/E/前端第二阶段/day13/homework.html",
+		"/E/前端第二阶段/day16/animate.css",
+		"/E/前端第二阶段/day13/home.html",
+		"/E/前端第二阶段/day15/ceshi.html",
+		"/C/Users/eli/Desktop/web/day16_boot/1.html",
+		"/E/前端第二阶段/day01/HTML/01_html.html",
+		"/C/Users/eli/Desktop/web/day16_boot/12.html",
+		"/E/前端第二阶段/day01/HTML/ex.html",
+		"/C/Users/eli/Desktop/web/Sublime Text Build 3176 x86/Data/Packages/User/SublimeTmpl.sublime-settings",
+		"/C/Users/eli/Documents/WeChat Files/Lee86391634/FileStorage/File/2020-01/htmlboot.sublime-snippet",
+		"/C/Users/eli/Desktop/web/day16_boot/01_ex.html",
+		"/C/Users/eli/Desktop/web/day16_boot/boot1.html",
+		"/C/Users/eli/Desktop/web/day16_boot/111.html",
+		"/C/Users/eli/Desktop/web/day16_boot/222",
+		"/C/Users/eli/Desktop/web/Sublime Text Build 3176 x86/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/eli/Desktop/web/day16_boot/media.html"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jewelry.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
